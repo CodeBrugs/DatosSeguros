@@ -1,4 +1,3 @@
-```markdown
 # Guía de Desarrollo Seguro para Administradores
 
 ¡Bienvenido al equipo de administradores de DatosSeguros! Esta guía está diseñada para proporcionar a los administradores las mejores prácticas y directrices clave para garantizar un entorno seguro y protegido en nuestras aplicaciones y sistemas.
