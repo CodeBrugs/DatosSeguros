@@ -1,0 +1,53 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+# This workflow will build a Java project with Gradle and cache/restore any dependencies to improve the workflow execution time
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle
+
+name: Java CI with Gradle
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up JDK 11
+      uses: actions/setup-java@v3
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+    - name: Build with Gradle
+      uses: gradle/gradle-build-action@bd5760595778326ba7f1441bcf7e88b49de61a25 # v2.6.0
+      with:
+        arguments: build
+
+            - nombre: caché
+  usos: acciones/cache@v3.3.2
+  con:
+    # Una lista de archivos, directorios y patrones comodín para almacenar en caché y restaurar
+    camino:
+    # Una clave explícita para restaurar y guardar el caché
+    llave:
+    # Una lista ordenada de claves que se utilizarán para restaurar el caché obsoleto si no se produjo ningún acceso al caché para la clave. Tenga en cuenta que `cache-hit` devuelve falso en este caso.
+    restaurar claves: # opcional
+    # El tamaño del fragmento utilizado para dividir archivos grandes durante la carga, en bytes
+    tamaño del fragmento de carga: # opcional
+    # Un booleano opcional cuando está habilitado, permite a los corredores de Windows guardar o restaurar cachés que se pueden restaurar o guardar respectivamente en otras plataformas.
+    enableCrossOsArchive: # opcional, el valor predeterminado es falso
+    # Falla el flujo de trabajo si no se encuentra la entrada de caché
+    fallo en caché: # opcional, el valor predeterminado es falso
+    # Comprobar si existe una entrada de caché para las entradas dadas (clave, claves de restauración) sin descargar el caché
+    solo búsqueda: # opcional, el valor predeterminado es falso
+          
