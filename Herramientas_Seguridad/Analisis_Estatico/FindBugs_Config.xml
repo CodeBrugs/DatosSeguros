@@ -1,1 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindBugsFilter>
+    <!-- Configuración del filtro de informes -->
+    <Match>
+        <!-- Prioridad: baja, media, alta -->
+        <Priority value="High" />
+        <!-- Categorías de los informes: "Correctness", "Security", "Multithreaded correctness", etc. -->
+        <Bug category="SECURITY" />
+        <!-- Ajusta la prioridad y categoría según tus necesidades -->
+    </Match>
+
+    <!-- Exclusiones -->
+    <Match>
+        <!-- Excluir paquetes específicos -->
+        <Package name="com.datosseguros.excepciones" />
+        <!-- Excluir clases o métodos específicos -->
+        <Class name="com.datosseguros.utilidades.ClaseEjemplo" />
+        <Method name="com.datosseguros.utilidades.ClaseEjemplo.metodoEjemplo" />
+        <!-- Agrega más reglas de exclusión según sea necesario -->
+    </Match>
+
+    <!-- Configuración adicional -->
+    <Match>
+        <!-- Configuración de mensajes de excepciones personalizados -->
+        <Message value="No hacer caso a este error específico" />
+        <!-- Agrega más configuraciones según tus necesidades -->
+    </Match>
+</FindBugsFilter>
 
