@@ -1,1 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OWASPZAPReportFilter>
+    <!-- Configuración del filtro de informes OWASP ZAP -->
+    <Alert>
+        <!-- Niveles de alerta: Low, Medium, High -->
+        <Risk code="3" />
+        <!-- Categorías de las alertas: "Injection", "Cross Site Scripting (XSS)", "Cross Site Request Forgery (CSRF)", etc. -->
+        <Category name="Injection" />
+        <Category name="Cross Site Scripting (XSS)" />
+        <!-- Ajusta el riesgo y las categorías según tus necesidades -->
+    </Alert>
+
+    <!-- Exclusiones Detalladas -->
+    <ExcludedAlerts>
+        <!-- Excluir alertas específicas por ID y contexto -->
+        <AlertItem id="1" url="https://datosseguros.com/login" />
+        <!-- Excluir alertas por nombre y tipo de contenido -->
+        <AlertItem name="Cross Site Scripting (Reflected)" contentType="text/html" />
+        <!-- Agrega más reglas de exclusión detalladas según sea necesario -->
+    </ExcludedAlerts>
+</OWASPZAPReportFilter>
 
