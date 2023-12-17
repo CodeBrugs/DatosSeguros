@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "CMake: Configure project",
+            "cmakeDebugType": "configure",
+            "clean": true,
+            "configureAll": true
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+    {
+        "name": "(Windows) Attach",
+        "type": "cppvsdbg",
+        "request": "attach",
+    }
+    ]
+}
