@@ -32,7 +32,7 @@ jobs:
       uses: gradle/gradle-build-action@bd5760595778326ba7f1441bcf7e88b49de61a25 # v2.6.0
       with:
         arguments: build
-
-            - nombre: caché
-  usos: acciones/cache@v3.3.2
-  con:
+        
+              - nombre: Configuración del entorno Go
+                usos: acciones/setup-go@v5.0.0
+            
