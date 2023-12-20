@@ -97,5 +97,5 @@ En DatosSeguros, nos esforzamos por proporcionar recursos valiosos y herramienta
 
 ## Licencia
 
-Este repositorio está bajo la Licencia [MIT](LICENSE).
+
 
