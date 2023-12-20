@@ -27,7 +27,7 @@
    - 5.1 [Directrices Normativas](#directrices-normativas)
    - 5.2 [Leyes de Privacidad Aplicables](#leyes-de-privacidad-aplicables)
    - 5.3 [Contrato de Seguridad de Datos](#contrato-de-seguridad-de-datos)
-   - 5.4 [Política de Privacidad Plantilla](#politica-de-privacidad-plantilla.md)
+   - 5.4 [Política de Privacidad Plantilla](politica-de-privacidad-plantilla.md)
 
 ## 1. Políticas y Normativas
 
