@@ -5,7 +5,7 @@
 ## Contenidos
 
 1. **Políticas y Normativas**
-   - 1.1 [Política de Seguridad de Datos](#politica-de-seguridad-de-datos)
+   - 1.1 [Política de Seguridad de Datos](politica-de-seguridad-de-datos)
    - 1.2 [Normativas de Privacidad](#normativas-de-privacidad)
    - 1.3 [Contrato de Seguridad de Datos](#contrato-de-seguridad-de-datos)
 
@@ -27,7 +27,7 @@
    - 5.1 [Directrices Normativas](#directrices-normativas)
    - 5.2 [Leyes de Privacidad Aplicables](#leyes-de-privacidad-aplicables)
    - 5.3 [Contrato de Seguridad de Datos](#contrato-de-seguridad-de-datos)
-   - 5.4 [Política de Privacidad Plantilla](#politica-de-privacidad-plantilla)
+   - 5.4 [Política de Privacidad Plantilla](#politica-de-privacidad-plantilla.md)
 
 ## 1. Políticas y Normativas
 
