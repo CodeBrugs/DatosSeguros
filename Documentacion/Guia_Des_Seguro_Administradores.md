@@ -5,29 +5,29 @@
 ## Contenidos
 
 1. **Políticas y Normativas**
-   - 1.1 [Política de Seguridad de Datos](#politica-de-seguridad-de-datos)
-   - 1.2 [Normativas de Privacidad](#normativas-de-privacidad)
-   - 1.3 [Contrato de Seguridad de Datos](#politica_normativas/contrato-de-seguridad-de-datos)
+   - 1.1 [Política de Seguridad de Datos](politica-de-seguridad-de-datos)
+   - 1.2 [Normativas de Privacidad](normativas-de-privacidad)
+   - 1.3 [Contrato de Seguridad de Datos](politica_normativas/contrato-de-seguridad-de-datos)
 
 2. **Configuración y Monitoreo**
    - 2.1 [Configuración Segura del Sistema](#configuracion-segura-del-sistema)
-   - 2.2 [Herramientas de Monitoreo](#herramientas-de-monitoreo)
-   - 2.3 [Registro de Auditoría](#registro-de-auditoria)
+   - 2.2 [Herramientas de Monitoreo](herramientas-de-monitoreo)
+   - 2.3 [Registro de Auditoría](registro-de-auditoria)
 
 3. **Gestión de Incidentes**
    - 3.1 [Procedimientos de Respuesta a Incidentes](#procedimientos-de-respuesta-a-incidentes)
-   - 3.2 [Análisis Posterior a Incidentes](#analisis-posterior-a-incidentes)
+   - 3.2 [Análisis Posterior a Incidentes](analisis-posterior-a-incidentes)
 
 4. **Colaboración con Equipos de Desarrollo**
-   - 4.1 [Coordinación de Actualizaciones de Seguridad](#coordinacion-de-actualizaciones-de-seguridad)
-   - 4.2 [Revisión de Código y Pruebas de Seguridad](#revision-de-codigo-y-pruebas-de-seguridad)
-   - 4.3 [Integración Continua y Despliegue Seguro](#integracion-continua-y-despliegue-seguro)
+   - 4.1 [Coordinación de Actualizaciones de Seguridad](coordinacion-de-actualizaciones-de-seguridad)
+   - 4.2 [Revisión de Código y Pruebas de Seguridad](revision-de-codigo-y-pruebas-de-seguridad)
+   - 4.3 [Integración Continua y Despliegue Seguro](integracion-continua-y-despliegue-seguro)
 
 5. **Políticas y Normativas Adicionales**
-   - 5.1 [Directrices Normativas](#directrices-normativas)
-   - 5.2 [Leyes de Privacidad Aplicables](#leyes-de-privacidad-aplicables)
-   - 5.3 [Contrato de Seguridad de Datos](#contrato-de-seguridad-de-datos)
-   - 5.4 [Política de Privacidad Plantilla](#politica-de-privacidad-plantilla)
+   - 5.1 [Directrices Normativas](directrices-normativas)
+   - 5.2 [Leyes de Privacidad Aplicables](leyes-de-privacidad-aplicables)
+   - 5.3 [Contrato de Seguridad de Datos](contrato-de-seguridad-de-datos)
+   - 5.4 [Política de Privacidad Plantilla](politica-de-privacidad-plantilla)
 
 ## 1. Políticas y Normativas
 
@@ -38,7 +38,7 @@ Asegúrate de comprender y hacer cumplir la [política de seguridad de datos](#)
 Mantente actualizado sobre las [normativas de privacidad](#) aplicables y asegúrate de que todas las operaciones se alineen con estas regulaciones. Establece un programa de revisión periódica para garantizar el cumplimiento continuo.
 
 ### 1.3 Contrato de Seguridad de Datos
-Familiarízate con el [contrato de seguridad de datos](#politica_normativas/contrato-de-seguridad-de-datos) establecido con terceros. Asegúrate de que se cumplan todas las cláusulas y requisitos de seguridad. Establece un proceso de revisión regular para garantizar la coherencia.
+Familiarízate con el [contrato de seguridad de datos](politica_normativas/contrato-de-seguridad-de-datos) establecido con terceros. Asegúrate de que se cumplan todas las cláusulas y requisitos de seguridad. Establece un proceso de revisión regular para garantizar la coherencia.
 
 ## 2. Configuración y Monitoreo
 
@@ -81,7 +81,7 @@ Establece directrices adicionales para áreas específicas de seguridad. Asegúr
 Mantente al tanto de las [leyes de privacidad aplicables](#) en el ámbito regional y asegúrate de que todas las operaciones se ajusten a estas leyes.
 
 ### 5.3 Contrato de Seguridad de Datos
-Revisa y actualiza el [contrato de seguridad de datos](#politica_normativas/contrato-de-seguridad-de-datos) según sea necesario. Asegúrate de que refleje cambios en las operaciones y requisitos de seguridad.
+Revisa y actualiza el [contrato de seguridad de datos](politica_normativas/contrato-de-seguridad-de-datos) según sea necesario. Asegúrate de que refleje cambios en las operaciones y requisitos de seguridad.
 
 ### 5.4 Política de Privacidad Plantilla
 Proporciona una [plantilla de política de privacidad](#) para garantizar la consistencia en las prácticas de recopilación y manejo de datos personales.
