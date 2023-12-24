@@ -6,20 +6,20 @@
 
 1. **Políticas y Normativas**
    - 1.1 [Política de Seguridad de Datos](Politica_Seguridad_Datos.md)
-   - 1.2 [Normativas de Privacidad](normativas_privacidad.md)
-   - 1.3 [Contrato de Seguridad de Datos](politica_normativas/contrato_seguridad_datos.md)
+   - 1.2 [Normativas de Privacidad](Normativas_Privacidad.md)
+   - 1.3 [Contrato de Seguridad de Datos](Politica_Normativas/Contrato_Seguridad_Datos.md)
 
 2. **Configuración y Monitoreo**
-   - 2.1 [Configuración Segura del Sistema](configuracion-segura-del-sistema.md)
-   - 2.2 [Herramientas de Monitoreo](herramientas-de-monitoreo.md)
-   - 2.3 [Registro de Auditoría](registro-de-auditoria.md)
+   - 2.1 [Configuración Segura del Sistema](Configuracion_Segura_del_Sistema.md)
+   - 2.2 [Herramientas de Monitoreo](Herramientas_de_Monitoreo.md)
+   - 2.3 [Registro de Auditoría](Registro_de_Auditoria.md)
 
 3. **Gestión de Incidentes**
-   - 3.1 [Procedimientos de Respuesta a Incidentes](#procedimientos-de-respuesta-a-incidentes.md)
-   - 3.2 [Análisis Posterior a Incidentes](analisis-posterior-a-incidentes.md)
+   - 3.1 [Procedimientos de Respuesta a Incidentes](Procedimientos_de_Respuesta_A_Incidentes.md)
+   - 3.2 [Análisis Posterior a Incidentes](Analisis_Posteriora_A_Incidentes.md)
 
 4. **Colaboración con Equipos de Desarrollo**
-   - 4.1 [Coordinación de Actualizaciones de Seguridad](coordinacion-de-actualizaciones-de-seguridad.md)
+   - 4.1 [Coordinación de Actualizaciones de Seguridad](Coordinacion_de_Actualizaciones_de_Seguridad.md)
    - 4.2 [Revisión de Código y Pruebas de Seguridad](revision-de-codigo-y-pruebas-de-seguridad.md)
    - 4.3 [Integración Continua y Despliegue Seguro](integracion-continua-y-despliegue-seguro.md)
 
