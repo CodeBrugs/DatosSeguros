@@ -1,3 +1,5 @@
+![Logo de DatosSeguros](https://tusitio.com/logos/DatosSeguros_logo.png)
+
 # DatosSeguros
 
 ¡Bienvenido a DatosSeguros! Este repositorio está dedicado a asegurar la confidencialidad, integridad y disponibilidad de los datos en aplicaciones y sistemas. Únete a nosotros para trabajar en soluciones que protejan la información sensible y fomenten prácticas seguras.
