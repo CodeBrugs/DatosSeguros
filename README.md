@@ -1,4 +1,4 @@
-[Logo de DatosSeguros](./img/logos/DatosSeguros_logo.png.jng)
+[Logo de DatosSeguros](img/logos/DatosSeguros_logo.png.jpg)
 
 # DatosSeguros
 
