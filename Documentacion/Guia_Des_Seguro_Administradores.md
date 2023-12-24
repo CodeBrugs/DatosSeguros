@@ -7,7 +7,7 @@
 1. **Políticas y Normativas**
    - 1.1 [Política de Seguridad de Datos](Politica_Seguridad_Datos.md)
    - 1.2 [Normativas de Privacidad](Normativas_Privacidad.md)
-   - 1.3 [Contrato de Seguridad de Datos](Politica_Normativas/Contrato_Seguridad_Datos.md)
+   - 1.3 [Contrato de Seguridad de Datos](Politicas_Normativas/Contrato_Seguridad_Datos.md)
 
 2. **Configuración y Monitoreo**
    - 2.1 [Configuración Segura del Sistema](Configuracion_Segura_del_Sistema.md)
