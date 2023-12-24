@@ -22,7 +22,7 @@ Estas certificaciones no solo son reconocidas a nivel mundial, sino que también
 
 Si eres un profesional de seguridad de datos o estás interesado en aprender más sobre estas certificaciones, te animamos a explorar la posibilidad de obtenerlas para fortalecer tu perfil y contribuir al ambiente seguro que promovemos en DatosSeguros.
 
-Para obtener más detalles sobre cada certificación y cómo prepararte para los exámenes, consulta nuestra [Guía de Certificación de Seguridad](enlace-guia-certificacion-seguridad).
+Para obtener más detalles sobre cada certificación y cómo prepararte para los exámenes, consulta nuestra [Guía de Certificación de Seguridad](Guia_Certificacion_Seguridad.pdf.md).
 
 ---
 
