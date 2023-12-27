@@ -1,0 +1,32 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore AL Language extension cache
+.alcache/
+
+# Ignore AL Language extension packages
+.alpackages/
+
+# Ignore Snapshots created during development
+.snapshots/
+
+# Ignore output folder generated during testing
+.output/
+
+# Ignore compiled AL extension files
+*.app
+
+# Ignore Rapid Application Development configuration file
+rad.json
+
+# Ignore Translation Base file
+*.g.xlf
+
+# Ignore License files
+*.flf
+
+# Ignore Test results file
+TestResults.xml
+
+# Ignore Python virtual environment
+venv/
