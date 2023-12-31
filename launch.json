@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Archivo Actual",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Módulo Actual",
+            "type": "python",
+            "request": "launch",
+            "module": "${fileBasenameNoExtension}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Archivo Externo",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/path/to/your/script.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
